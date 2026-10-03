@@ -15,7 +15,6 @@ public:
                 maxLen = max(maxLen, dp[i]);
             }
         }
-
         return maxLen;
     }
 };
