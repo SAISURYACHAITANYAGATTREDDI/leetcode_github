@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/0678-valid-parenthesis-string) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
