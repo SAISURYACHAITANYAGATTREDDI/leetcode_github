@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3665-twisted-mirror-path-count) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
