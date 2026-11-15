@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1267-count-servers-that-communicate) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3665-twisted-mirror-path-count](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3665-twisted-mirror-path-count) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -198,5 +201,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
