@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3364-minimum-positive-sum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
