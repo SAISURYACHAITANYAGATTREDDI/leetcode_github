@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2409-count-days-spent-together) |
@@ -206,10 +208,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SAISURYACHAITANYAGATTREDDI/leetcode_github/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
